@@ -15,15 +15,15 @@
             <language>en</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>Ruida_He@outlook.com (RuidaH)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>Ruida_He@outlook.com (RuidaH)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 17 Jan 2023 15:32:16 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 15:42:49 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://ruidah.github.io/rss.xml" />
         
@@ -34,11 +34,16 @@
                 <guid isPermaLink="true">https://ruidah.github.io/posts/first-post/</guid>
                 <pubDate>Tue, 17 Jan 2023 15:29:34 &#43;0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>Ruida_He@outlook.com (RuidaH)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description></description>
+                    <description>&lt;h1 id=&#34;this-is-my-first-post-on-the-website&#34;&gt;This is my first post on the website&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Take 1&lt;/li&gt;
+&lt;li&gt;Take 2&lt;/li&gt;
+&lt;/ul&gt;
+</description>
                 
                 
                 
