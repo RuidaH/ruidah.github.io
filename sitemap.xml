@@ -2,21 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ruidah.github.io/categories/aa/</loc>
+    <lastmod>2023-01-17T17:15:52+08:00</lastmod>
+  </url><url>
+    <loc>https://ruidah.github.io/tags/b/</loc>
+    <lastmod>2023-01-17T17:15:52+08:00</lastmod>
+  </url><url>
     <loc>https://ruidah.github.io/categories/</loc>
-    <lastmod>2023-01-17T16:19:51+08:00</lastmod>
+    <lastmod>2023-01-17T17:15:52+08:00</lastmod>
   </url><url>
     <loc>https://ruidah.github.io/</loc>
-    <lastmod>2023-01-17T16:19:51+08:00</lastmod>
-  </url><url>
-    <loc>https://ruidah.github.io/about/</loc>
-    <lastmod>2023-01-17T15:46:25+08:00</lastmod>
-  </url><url>
-    <loc>https://ruidah.github.io/posts/first-post/</loc>
-    <lastmod>2023-01-17T15:39:46+08:00</lastmod>
+    <lastmod>2023-01-17T17:26:44+08:00</lastmod>
   </url><url>
     <loc>https://ruidah.github.io/posts/</loc>
-    <lastmod>2023-01-17T15:39:46+08:00</lastmod>
+    <lastmod>2023-01-17T17:15:52+08:00</lastmod>
+  </url><url>
+    <loc>https://ruidah.github.io/posts/second-post/</loc>
+    <lastmod>2023-01-17T17:15:52+08:00</lastmod>
   </url><url>
     <loc>https://ruidah.github.io/tags/</loc>
+    <lastmod>2023-01-17T17:15:52+08:00</lastmod>
+  </url><url>
+    <loc>https://ruidah.github.io/about/</loc>
+    <lastmod>2023-01-17T17:26:44+08:00</lastmod>
+  </url><url>
+    <loc>https://ruidah.github.io/tags/a/</loc>
+    <lastmod>2023-01-17T16:57:32+08:00</lastmod>
+  </url><url>
+    <loc>https://ruidah.github.io/posts/first-post/</loc>
+    <lastmod>2023-01-17T16:57:32+08:00</lastmod>
   </url>
 </urlset>

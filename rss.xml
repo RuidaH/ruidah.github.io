@@ -23,10 +23,50 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 17 Jan 2023 16:32:55 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 17:37:27 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://ruidah.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Second Post</title>
+                <link>https://ruidah.github.io/posts/second-post/</link>
+                <guid isPermaLink="true">https://ruidah.github.io/posts/second-post/</guid>
+                <pubDate>Tue, 17 Jan 2023 16:58:49 &#43;0800</pubDate>
+                
+                    <author>Ruida_He@outlook.com (RuidaH)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://ruidah.github.io/categories/aa/">aa</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://ruidah.github.io/tags/b/">b</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>First Post</title>
@@ -51,7 +91,29 @@
                 
                     
                         
+                            
+                                
+                                
+                                
+                                    <category domain="https://ruidah.github.io/categories/aa/">aa</category>
+                                
+                            
+                        
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://ruidah.github.io/tags/a/">a</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://ruidah.github.io/tags/b/">b</category>
+                                
+                            
                         
                     
                 

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">HRD&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-01-17T16:32:55&#43;08:00</updated>
+    <updated>2023-01-17T17:37:27&#43;08:00</updated>
     <id>https://ruidah.github.io/</id>
     <link rel="alternate" type="text/html" href="https://ruidah.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://ruidah.github.io/atom.xml" />
@@ -17,10 +17,53 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
         <entry>
+            <title type="text">Second Post</title>
+            <link rel="alternate" type="text/html" href="https://ruidah.github.io/posts/second-post/" />
+            <id>https://ruidah.github.io/posts/second-post/</id>
+            <updated>2023-01-17T17:15:52&#43;08:00</updated>
+            <published>2023-01-17T16:58:49&#43;08:00</published>
+            <author>
+                    <name>RuidaH</name>
+                    <uri>https://ruidah.github.io/</uri>
+                    <email>Ruida_He@outlook.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"></summary>
+            
+                <content type="html"></content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://ruidah.github.io/categories/aa/" term="aa" label="aa" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://ruidah.github.io/tags/b/" term="b" label="b" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">First Post</title>
             <link rel="alternate" type="text/html" href="https://ruidah.github.io/posts/first-post/" />
             <id>https://ruidah.github.io/posts/first-post/</id>
-            <updated>2023-01-17T15:39:46&#43;08:00</updated>
+            <updated>2023-01-17T16:57:32&#43;08:00</updated>
             <published>2023-01-17T15:29:34&#43;08:00</published>
             <author>
                     <name>RuidaH</name>
@@ -42,7 +85,29 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://ruidah.github.io/categories/aa/" term="aa" label="aa" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://ruidah.github.io/tags/a/" term="a" label="a" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://ruidah.github.io/tags/b/" term="b" label="b" />
+                            
+                        
                     
                 
             
