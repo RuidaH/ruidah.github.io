@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ruidah.github.io/about/</loc>
-    <lastmod>2023-01-17T15:46:25+08:00</lastmod>
+    <loc>https://ruidah.github.io/categories/</loc>
+    <lastmod>2023-01-17T16:05:27+08:00</lastmod>
   </url><url>
     <loc>https://ruidah.github.io/</loc>
+    <lastmod>2023-01-17T16:05:27+08:00</lastmod>
+  </url><url>
+    <loc>https://ruidah.github.io/c&#43;&#43;/</loc>
+    <lastmod>2023-01-17T16:04:11+08:00</lastmod>
+  </url><url>
+    <loc>https://ruidah.github.io/about/</loc>
     <lastmod>2023-01-17T15:46:25+08:00</lastmod>
   </url><url>
     <loc>https://ruidah.github.io/posts/first-post/</loc>
@@ -13,8 +19,6 @@
   </url><url>
     <loc>https://ruidah.github.io/posts/</loc>
     <lastmod>2023-01-17T15:39:46+08:00</lastmod>
-  </url><url>
-    <loc>https://ruidah.github.io/categories/</loc>
   </url><url>
     <loc>https://ruidah.github.io/tags/</loc>
   </url>
