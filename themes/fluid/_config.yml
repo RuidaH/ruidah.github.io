@@ -953,7 +953,7 @@ about:
   banner_img: /img/default.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: /img/selfie.jpg
+  avatar: /img/selfie.jpeg
   name: "RDH"
   intro: "Coding nerd | Fitness enthusiast | Passionate about customised keyboard Building"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
