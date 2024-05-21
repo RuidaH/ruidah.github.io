@@ -1,5 +1,5 @@
 ---
-title: "Unique_ptr 的定义和应用"
+title: "智能指针 std::unique_ptr 的定义和应用"
 categories: [C++]
 date: 2023-10-27 15:55:09
 tags: Notes of Effective Modern C++

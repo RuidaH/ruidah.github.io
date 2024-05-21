@@ -1,5 +1,5 @@
 ---
-title: "论 weak_ptr 如何打破 shared_ptr 的环状结构"
+title: "论 std::weak_ptr 打破 std::shared_ptr 的循环引用"
 date: 2023-10-27 15:46:25
 categories: ["C++"]
 tags:

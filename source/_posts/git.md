@@ -1,5 +1,5 @@
 ---
-title: "Some commonly used git commands"
+title: "常用 Git 相关命令"
 date: 2023-10-27 15:58:20
 categories: ["Git"]
 tags:

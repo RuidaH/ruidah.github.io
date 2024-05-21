@@ -1,7 +1,6 @@
 ---
 title: Treap
 date: 2023-10-27 15:25:08
-tags: ["Recursive Implementation"]
 categories: ["Data Structure"]
 ---
 

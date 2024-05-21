@@ -1,5 +1,5 @@
 ---
-title: Lvalue and Rvalue (左值引用 & 右值引用)
+title: 左值引用 & 右值引用
 date: 2023-10-27 15:56:26
 categories: [C++]
 tags:

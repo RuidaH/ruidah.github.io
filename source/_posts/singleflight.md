@@ -1,8 +1,8 @@
 ---
 title: Singleflight 机制
 date: 2024-03-14 16:12:02
-categories: ["C++", "Golang"]
-tags: “缓存优化”
+categories: "Golang"
+tags: 缓存优化, C++
 ---
 
 # 介绍

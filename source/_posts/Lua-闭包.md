@@ -1,5 +1,5 @@
 ---
-title: Lua 闭包
+title: Lua 闭包的定义和应用
 date: 2023-11-13 19:20:41
 categories: [Lua]
 tags:
